@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SergioPenaloza0507
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+SergioPenaloza0507, Gameplay developer and technical artist 
+
+Currently learning OpenGL and Vulkan
+Interested in Computer Graphics with games in mind
+
+
 
 <!---
 SergioPenaloza0507/SergioPenaloza0507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
